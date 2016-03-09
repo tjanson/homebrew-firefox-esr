@@ -8,11 +8,14 @@ Subsequent Firefox ESR versions overlap by two major versions (twelve weeks),
 during which you may choose to manually update to the latest ESR (or other
 release) of Firefox.
 
+If you are interested in always updating to the latest ESR as soon as it is
+released, you may use the [`firefox-esr`](https://github.com/caskroom/homebrew-versions)
+cask provided by [`caskroom/versions`](https://github.com/caskroom/homebrew-versions).
+
 Current versions:
 
 * `firefox-esr38` (released 2015-03-31, [scheduled to retire 2016-06-07](https://wiki.mozilla.org/RapidRelease/Calendar))
 * `firefox-esr45` (released 2016-03-08, scheduled to retire 2017Q1)
-* `firefox-esr-latest` (will always contain the latest ESR)
 
 All versions use the US-English locale `en-US`.
 
