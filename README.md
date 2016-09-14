@@ -14,8 +14,7 @@ cask provided by [`caskroom/versions`](https://github.com/caskroom/homebrew-vers
 
 Current versions:
 
-* `firefox-esr38` (released 2015-03-31, [scheduled to retire 2016-06-07](https://wiki.mozilla.org/RapidRelease/Calendar))
-* `firefox-esr45` (released 2016-03-08, scheduled to retire 2017Q1)
+* `firefox-esr45` (released 2016-03-08, [scheduled to retire 2017Q2](https://wiki.mozilla.org/RapidRelease/Calendar))
 
 All versions use the US-English locale `en-US`.
 
