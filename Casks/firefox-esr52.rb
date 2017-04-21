@@ -1,6 +1,6 @@
 cask 'firefox-esr52' do
-  version '52.0'
-  sha256 'd07eae2f89aabba2b8d3e4f475d83b928156cd7bb6cfdc5169016df16b705c78'
+  version '52.1.0'
+  sha256 'c6f8f07bcab2782825538bbfc34eb46396b14e67f95993e7b06555d6b8b6b9a6'
 
   # mozilla.net was verified as official when first introduced to the cask
   url "https://download-installer.cdn.mozilla.net/pub/firefox/releases/#{version}esr/mac/en-US/Firefox%20#{version}esr.dmg"
