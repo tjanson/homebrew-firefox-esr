@@ -14,8 +14,7 @@ cask provided by [`caskroom/versions`](https://github.com/caskroom/homebrew-vers
 
 Current versions:
 
-* `firefox-esr45` (released 2016-03-08, [scheduled to retire 2017Q2](https://wiki.mozilla.org/RapidRelease/Calendar))
-* `firefox-esr52` (released 2017-03-07)
+* `firefox-esr52` (released 2017-03-07, [scheduled to retire 2018Q2](https://wiki.mozilla.org/RapidRelease/Calendar))
 
 All versions use the US-English locale `en-US`.
 
@@ -25,7 +24,7 @@ All versions use the US-English locale `en-US`.
 
 ```
 brew tap tjanson/firefox-esr
-brew cask install firefox-esr45
+brew cask install firefox-esr52
 ```
 
 You may also want to look at other possible versions of Firefox with
